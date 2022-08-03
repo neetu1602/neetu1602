@@ -1,8 +1,4 @@
-### 🛠 &nbsp;Tech Stack
-
 <h2>Hello ! I'm Neetu</h2>
-
-### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently learning programming skills.\
