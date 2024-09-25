@@ -6,7 +6,7 @@
 ## I'm learning Software Development !!
 
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on projects and my first blog.
+- 🔭 I’m currently working on projects.
 - 🌱 I’m currently learning ReactJS, Redux and Data Structures and Algorithms
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
